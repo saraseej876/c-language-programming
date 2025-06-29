@@ -1,3 +1,3 @@
 
 # c-language-programming
-this respiratory is made for in cridiblee programs of c language 
+this respiratory is made for incridiblee programs of c language 
